@@ -10,12 +10,11 @@ hour and a real object, with the ache left in the last clause.
 
 ## The line
 
-> Every evening at six my grandfather turned his old radio down low so the news would not wake me, and I still fall asleep fastest to a voice talking about a world I did not understand yet.
+> When rain drummed on our tin roof at night, my mother hummed the same lullaby until the leaks found their bucket, and I have never slept as deeply as I did listening to her voice compete with the storm.
 
-187 characters, one sentence. Six o'clock, the radio turned down,
-a child falling asleep to a voice describing a world he did not
-understand yet — and the adult who still falls asleep fastest to
-exactly that sound.
+202 characters, one sentence. Rain on tin, a lullaby hummed through
+it, a bucket catching the leaks — and the adult who has never slept
+as deeply since, because no roof has ever sounded like that one.
 
 ## Run it
 
