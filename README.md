@@ -10,11 +10,11 @@ hour and a real object, with the ache left in the last clause.
 
 ## The line
 
-> At dawn Grandma stood barefoot on the cold tiles while the rice steamed her glasses foggy, and she tapped the lid twice before saying it was ready, a sound I still listen for in kitchens that will never smell like hers.
+> On the last summer evening before school started again, my father let me stay up past dark to chase fireflies in a jam jar, and I still check the dusk for their light every August, as if the jar were waiting on the porch.
 
-219 characters, one sentence. Dawn, cold tiles, fogged glasses,
-two taps on the lid — and the adult still listening for that sound
-in kitchens that will never smell like hers.
+221 characters, one sentence. The last evening of summer, a jam
+jar, fireflies — and the adult who still checks the August dusk,
+as if the jar were waiting on the porch.
 
 ## Run it
 
