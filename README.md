@@ -10,11 +10,11 @@ hour and a real object, with the ache left in the last clause.
 
 ## The line
 
-> On the last summer evening before school started again, my father let me stay up past dark to chase fireflies in a jam jar, and I still check the dusk for their light every August, as if the jar were waiting on the porch.
+> Every August I cook rice in Grandma's chipped blue bowl and eat it standing at the sink, because the summer she died I learned grief tastes exactly like the last meal she ever made me.
 
-221 characters, one sentence. The last evening of summer, a jam
-jar, fireflies — and the adult who still checks the August dusk,
-as if the jar were waiting on the porch.
+184 characters, one sentence. Every August, the same chipped blue
+bowl, the same meal standing at the sink — and grief that tastes
+exactly like the last meal she ever made.
 
 ## Run it
 
