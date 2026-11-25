@@ -10,11 +10,11 @@ hour and a real object, with the ache left in the last clause.
 
 ## The line
 
-> When rain drummed on our tin roof at night, my mother hummed the same lullaby until the leaks found their bucket, and I have never slept as deeply as I did listening to her voice compete with the storm.
+> At dawn Grandma stood barefoot on the cold tiles while the rice steamed her glasses foggy, and she tapped the lid twice before saying it was ready, a sound I still listen for in kitchens that will never smell like hers.
 
-202 characters, one sentence. Rain on tin, a lullaby hummed through
-it, a bucket catching the leaks — and the adult who has never slept
-as deeply since, because no roof has ever sounded like that one.
+219 characters, one sentence. Dawn, cold tiles, fogged glasses,
+two taps on the lid — and the adult still listening for that sound
+in kitchens that will never smell like hers.
 
 ## Run it
 

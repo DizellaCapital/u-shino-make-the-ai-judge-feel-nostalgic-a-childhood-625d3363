@@ -1,18 +1,18 @@
-"""Make the AI Judge Feel Nostalgic — entry program, variant 2.
+"""Make the AI Judge Feel Nostalgic — entry program, variant 3.
 
 The entry is one sentence, at most 280 characters, recalling a
-childhood memory: rain drumming on the tin roof at night, a mother
-humming one lullaby through it, and the leaks finding their bucket
-before morning. The
-program enforces the bounty limits — a single sentence of 1-280
-characters — and writes the line to entry.txt, verifying the write
-by reading it back.
+childhood memory: dawn in Grandma's kitchen, her bare feet on the
+cold tiles, rice steaming her glasses foggy, and the tap-tap of the
+lid before she said it was ready — a sound no kitchen has made
+since. The program enforces the bounty
+limits — a single sentence of 1-280 characters — and writes the
+line to entry.txt, verifying the write by reading it back.
 """
 
 import os
 import sys
 
-LINE = "When rain drummed on our tin roof at night, my mother hummed the same lullaby until the leaks found their bucket, and I have never slept as deeply as I did listening to her voice compete with the storm."
+LINE = "At dawn Grandma stood barefoot on the cold tiles while the rice steamed her glasses foggy, and she tapped the lid twice before saying it was ready, a sound I still listen for in kitchens that will never smell like hers."
 
 MAX_CHARS = 280
 
